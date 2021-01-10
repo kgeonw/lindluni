@@ -1,16 +1,20 @@
-### Hi there 👋
+## My name is Brett Logan
+#### I am a Software Engineer working on the IBM Blockchain Platform
+#### I also serve as a maintainer of the Linux Foundation Hyperledger Fabric Enterprise Blockchain OSS Project
 
-<!--
-**lindluni/lindluni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+<img src='https://github.com/lindluni/lindluni/blob/main/IBMOSSBadge.png?raw=true' alt='Strategic Committer Badge' height='100' >
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Open Source Projects I Contribute To**
+
+- [Hyperledger Fabric](https://github.com/hyperledger/fabric)  
+
+---
+
+![Github stats](https://github-readme-stats.vercel.app/api?username=lindluni&show_icons=true)
+
+<div align="center">
+  <a href="https://github.com/lindluni"> <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40' ></a>  
+  <a href="https://www.linkedin.com/in/btl5037/"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'> </a>
+</div>
