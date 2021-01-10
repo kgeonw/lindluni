@@ -1,6 +1,6 @@
 ## My name is Brett Logan
 #### I am a Software Engineer working on the IBM Blockchain Platform
-#### I also serve as a maintainer of the Linux Foundation Hyperledger Fabric, an enterprise blockchain OSS project
+#### I also serve as a Maintainer and Release Manager of the Linux Foundation's Hyperledger Fabric, an enterprise blockchain OSS project
 
 ---
 
